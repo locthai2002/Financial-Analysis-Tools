@@ -103,9 +103,11 @@ pip install alpaca-trade-api
 In order to run this application, you will need to supply your own API keys in your ```.env``` file that looks like this:
 
 ALPACA_API_KEY = “Your Alpaca API Key Here”
+
 ALPACA_SECRET_KEY = “Your Alpaca Secret Key Here”
 
-Save this file as ```.env```. Run ```financial_planning_tools.ipynb``` together with ```.env```
+Save this file as ```.env```. 
+Run ```financial_planning_tools.ipynb``` together with ```.env```
 
 ---
 
