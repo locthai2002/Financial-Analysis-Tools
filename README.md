@@ -123,47 +123,47 @@ Here are some screenshots from running the application:
 
 ## Import the Libararies
 
-![Import the Libararies](images/importlibraries.png)
+![Import the Libararies](Images/importlibraries.png)
 
 ## Create a Financial Planner for Emergencies
 
-![Financial Planner for Emergencies](images/createemergencies.png)
+![Financial Planner for Emergencies](Images/createemergencies.png)
 
 ## Use Python requests library to get BTC price
 
-![Use Python requests library to get BTC price](images/makeapitogetbtcprice.png)
+![Use Python requests library to get BTC price](Images/makeapitogetbtcprice.png)
 
 ## Evaluate the Stock and Bond Holdings
 
-![Evaluate the Stock and Bond Holdings](images/evaluatestockandbond.png)
+![Evaluate the Stock and Bond Holdings](Images/evaluatestockandbond.png)
 
 ## Set Up Alpaca API and Secret Keys
 
-![Set Up Alpaca API and Secret Keys](images/setalpacaapisecretkeys.png)
+![Set Up Alpaca API and Secret Keys](Images/setalpacaapisecretkeys.png)
 
 ## Evaluate the Emergency Fund
 
-![Evaluate the Emergency Fund](images/evaluateemergencyfund.png)
+![Evaluate the Emergency Fund](Images/evaluateemergencyfund.png)
 
 ## Composition of Personal Savings
 
-![Composition of Personal Savings](images/personalsavings.png)
+![Composition of Personal Savings](Images/personalsavings.png)
 
 ## Part 2: Create a Financial Planner for Retirement
 
-![Create a Financial Planner for Retirement](images/part2forretirement.png)
+![Create a Financial Planner for Retirement](Images/part2forretirement.png)
 
 ## Get 3 years of historical closing prices for a traditional 60/40 portfolio split: 60% stocks (SPY) and 40% bonds (AGG)
 
-![Get 3 years](images/useapitopull3yearsdata.png)
+![Get 3 years](Images/useapitopull3yearsdata.png)
 
 ## Distribution of Final Cumulative Returns 
 
-![Distribution of Final Cumulative Returns](images/distributionoffinalcum.png)
+![Distribution of Final Cumulative Returns](Images/distributionoffinalcum.png)
 
 ## Forecast Cumulative Returns in 10 Years 
 
-![Forecast Cumulative Returns in 10 Years](images/forecast10yearsreturns.png)
+![Forecast Cumulative Returns in 10 Years](Images/forecast10yearsreturns.png)
 
 
 ---
